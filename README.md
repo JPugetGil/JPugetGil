@@ -3,7 +3,7 @@
 Je suis une personne passionnée de développement, de social et d'art !
 Je suis dans le développement web fullstack en France.
 
-- 🔭 Je travaille en ce moment sur des SIG avec des technologies comme Angular, Java et C#,
+- 🔭 Je travaille aujourd'hui en alternance chez Worldline,
 - 👯 Je maintiens et co-développe la plateforme de notre association "[Comförting, votre bulle](https://comforting.xyz)" en React.js + Firebase !
 - 🤔 Si vous êtes intéressé.e.s par l'associatif, n'hésitez pas à me contacter !
 
