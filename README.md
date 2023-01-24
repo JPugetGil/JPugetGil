@@ -19,3 +19,10 @@ Je suis une personne passionnée de développement, de social et d'art !
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-red?&style=for-the-badge&logo=angular" />
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-blue?&style=for-the-badge&logo=firebase" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-lightgrey?&style=for-the-badge&logo=java" />
+
+<br>
+<br>
+
+## 📊 Statistiques
+![Hemoreg's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkjerome&show_icons=true&theme=transparent&hide_border=true)
+![Hemoreg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkjerome&layout=compact&langs_count=8&theme=transparent&hide_border=true)
