@@ -24,5 +24,5 @@ Je suis une personne passionnée de développement, de social et d'art !
 <br>
 
 ## 📊 Statistiques
-![Hemoreg's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkjerome&show_icons=true&theme=transparent&hide_border=true)
-![Hemoreg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linkjerome&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+![Hemoreg's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemoreG&show_icons=true&theme=transparent&hide_border=true)
+![Hemoreg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemoreG&layout=compact&langs_count=8&theme=transparent&hide_border=true)
