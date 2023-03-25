@@ -18,23 +18,7 @@ I am a person passionate about development, social and art!
 - 🤔 If you are interested in the association, don't hesitate to contact me!
 - My personal website : https://hemoreg.me
 
-## 📫 Contact
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jey-puget-gil)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jey.puget.gil/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hemoreg)
-
-<br>
-<br>
-
-## 💻 Technologies
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-red?&style=for-the-badge&logo=angular" />
-<img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-blue?&style=for-the-badge&logo=firebase" />
-<img align="left" alt="java" src="https://img.shields.io/badge/Java-lightgrey?&style=for-the-badge&logo=java" />
-
-<br>
-<br>
-
-## 📊 Statistiques
-![Hemoreg's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPugetGil&show_icons=true&theme=transparent&hide_border=true)
-![Hemoreg Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPugetGil&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+## 📊 Stats
+![JPugetGil's Stats](https://github-readme-stats.vercel.app/api?username=JPugetGil&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![JPugetGil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JPugetGil&theme=transparent&hide_border=true)
+![JPugetGil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPugetGil&theme=transparent&show_icons=true&hide_border=true&layout=compact)
