@@ -12,11 +12,11 @@ Je suis une personne passionnée de sciences informatique, de social et d'art !
 ### English
 I am a person passionate about computer science, social and art!
 
-- 🧑‍🏫 I work at the Claude Bernard University of Lyon as a tutor,
-- 🔭 I am doing [my PhD](https://liris.cnrs.fr/en/thesis/thesis-jey-puget-gil) in LIRIS in the teams [BD](https://liris.cnrs.fr/en/team/bd) and [ORIGAMI](https://liris.cnrs.fr/en/team/origami)
+- 🧑‍🏫 I work at the Claude Bernard University of Lyon as a teaching assistant,
+- 🔭 I am pursuing [my Ph.D.](https://liris.cnrs.fr/en/thesis/thesis-jey-puget-gil) at LIRIS in the [BD](https://liris.cnrs.fr/en/team/bd) and [ORIGAMI](https://liris.cnrs.fr/en/team/origami) teams.
 - 👯 I maintain and co-develop the platform of our association "[Comförting, your bubble](https://comforting.xyz)" in React.js + Firebase!
-- 🤔 If you are interested in the association, don't hesitate to contact me!
-- My personal website : https://hemoreg.me
+- 🤔 If you are interested in joining our association, feel free to contact me!
+- My personal website: https://hemoreg.me
 
 ## 📊 Stats
 ![JPugetGil's Stats](https://github-readme-stats.vercel.app/api?username=JPugetGil&theme=transparent&show_icons=true&hide_border=true&count_private=true)
