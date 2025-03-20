@@ -18,5 +18,4 @@ I am a person passionate about computer science, social and art!
 
 ## 📊 Stats
 ![JPugetGil's Stats](https://github-readme-stats.vercel.app/api?username=JPugetGil&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-![JPugetGil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JPugetGil&theme=transparent&hide_border=true)
 ![JPugetGil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPugetGil&theme=transparent&show_icons=true&hide_border=true&layout=compact)
