@@ -16,3 +16,7 @@ I am a person passionate about science, social and art!
 ![JPugetGil's Stats](https://github-readme-stats.vercel.app/api?username=JPugetGil&theme=vue&show_icons=true&hide_border=true&count_private=true)
 ![JPugetGil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JPugetGil&theme=vue&hide_border=true)
 ![JPugetGil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPugetGil&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
+## Publications
+
+![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg)
