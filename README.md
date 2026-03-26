@@ -19,4 +19,4 @@ I am a person passionate about science, society and art!
 
 ## Publications
 
-![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg&lvl=3)
+![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg&lvl=3&main=%2302b83e)
