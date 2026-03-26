@@ -1,6 +1,6 @@
 # Jey Puget Gil 
 ## Introduction
-I am a person passionate about science, social and art!
+I am a person passionate about science, society and art!
 
 - 🧑‍🏫 I work at the Claude Bernard University of Lyon as a research and teaching associate,
 - 🔭 I am pursuing [my Ph.D.](https://liris.cnrs.fr/en/thesis/thesis-jey-puget-gil) at LIRIS in the [BD](https://liris.cnrs.fr/en/team/bd) and [ORIGAMI](https://liris.cnrs.fr/en/team/origami) teams.
@@ -19,4 +19,4 @@ I am a person passionate about science, social and art!
 
 ## Publications
 
-![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg)
+![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg&lvl=3)
