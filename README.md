@@ -6,7 +6,7 @@ I am a person passionate about science, society and art!
 - 👯 I maintain and co-develop the platform of our association "[Comförting, your bubble](https://comforting.xyz)" in React.js!
 - My personal website: https://hemoreg.me
 ## Research
-- [ConVer-G: Concurrent Versioning of knowledge Graph](https://github.com/VCityTeam/ConVer-G)
+- [![DOI](https://joss.theoj.org/papers/10.21105/joss.10828/status.svg)](https://doi.org/10.21105/joss.10828) [ConVer-G: Concurrent Versioning of knowledge Graph](https://github.com/VCityTeam/ConVer-G)
 - [ConVer-G demo source code](https://github.com/VCityTeam/UD-Demo-VCity-Knowledge_Evolution), [ConVer-G demo](https://demo.ud-evolution.pagoda.liris.cnrs.fr/)
 - [ConVer-G benchmarking workflow with Argo](https://github.com/VCityTeam/UD-knowledge-evolution-experiment)
 ## Publications
