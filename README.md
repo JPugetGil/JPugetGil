@@ -10,4 +10,4 @@ I am a person passionate about science, society and art!
 - [ConVer-G demo source code](https://github.com/VCityTeam/UD-Demo-VCity-Knowledge_Evolution), [ConVer-G demo](https://demo.ud-evolution.pagoda.liris.cnrs.fr/)
 - [ConVer-G benchmarking workflow with Argo](https://github.com/VCityTeam/UD-knowledge-evolution-experiment)
 ## Publications
-![Hal publications](https://hal-search.vercel.app/?uid=jpugetgil&output=svg&lvl=3&main=%2302b83e)
+![Hal publications](https://hal-search.vercel.app/?uid=Jey%20Puget%20Gil&output=svg&lvl=3&main=%2302b83e)
