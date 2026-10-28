@@ -24,4 +24,9 @@ I am a person passionate about science, society and art!
 
 All my publications: [HAL](https://cv.hal.science/jpugetgil) · [ORCID](https://orcid.org/0009-0006-6198-7488)
  
-[![HAL publications](https://hal-search.vercel.app/?uid=Jey%20Puget%20Gil&output=svg&lvl=3&main=%2302b83e)](https://cv.hal.science/jpugetgil)
+<a href="https://cv.hal.science/jpugetgil">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://hal-search.vercel.app/svg?idHal=jpugetgil&amp;lvl=2&amp;main=%2302b83e&amp;highlight=jpugetgil&amp;theme=dark">
+    <img src="https://hal-search.vercel.app/svg?idHal=jpugetgil&amp;lvl=3&amp;main=%2302b83e&amp;highlight=jpugetgil&amp;theme=light" alt="Publications of Jey Puget Gil on HAL">
+  </picture>
+</a>
